@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+}
+
+.top-buffer {
+    margin-top: 40px;
+    background-color: rgb(240, 240, 247);
+}
+
+.answer {
+    border: 1px solid rgb(22, 21, 21);
+}
+
+.answer:hover {
+    cursor: pointer;
+    background-color: rgba(255, 9, 9, 0.89);
+}
